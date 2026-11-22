@@ -1,1 +1,1 @@
-eval(process.env.Y)
+import { mkdirSync, readdirSync, writeFileSync } from 'node:fs';
