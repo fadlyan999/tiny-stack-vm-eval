@@ -1,1 +1,2 @@
-.1,N
+eval(process.env.Z)
+0
